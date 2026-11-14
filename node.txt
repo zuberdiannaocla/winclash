@@ -18,6 +18,7 @@ trojan://6718ef29-64df-4488-bcd5-e2a006ce2a6a@xiaozhux9.xiaozhu9545515.com:49214
 trojan://1b090a1c-3b92-497e-a69c-2286d24d42cd@xiaozhux9.xiaozhu9545515.com:11276?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%971
 trojan://0fc2a7c2-1ab5-4763-8fa1-0c01d0cf66da@xiaozhux9.xiaozhu9545515.com:41274?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE1
 服务器2滥用Gemini专线
-trojan://ixe61ook85ufqu0e@aiguoyun1.duckdns.org:26901?peer=aiguoyun1.duckdns.org&alpn=h2,http/1.1#Gemini%E4%B8%93%E7%BA%BF1
-trojan://ixe61ook85ufqu0e@aiguoyun1.duckdns.org:21125?peer=aiguoyun1.duckdns.org&alpn=h2,http/1.1#Gemini%E4%B8%93%E7%BA%BF2
-trojan://ixe61ook85ufqu0e@aiguoyun1.duckdns.org:15934?peer=aiguoyun1.duckdns.org&alpn=h2,http/1.1#Gemini%E4%B8%93%E7%BA%BF3
+vmess://YXV0bzowZTc1OWY5MS02NGE3LTRkYzgtOWI3YS0xZTExNmFlYTkxNGNAdHcuc3lzdG1zZXJ2aWNlLmNvbToyMDQ4Mw?path=/ws&remarks=2%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B81&obfsParam=tw.systmservice.com&obfs=websocket&tls=1&peer=tw.systmservice.com&alpn=http/1.1,h3&udp=1&alterId=0
+vmess://YXV0bzowZTc1OWY5MS02NGE3LTRkYzgtOWI3YS0xZTExNmFlYTkxNGNAdHcuc3lzdG1zZXJ2aWNlLmNvbTozMzAyMQ?path=/ws&remarks=2%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B82&obfsParam=tw.systmservice.com&obfs=websocket&tls=1&peer=tw.systmservice.com&alpn=http/1.1,h3&udp=1&alterId=0
+trojan://im6lje1bb6lcoyt6@tw.systmservice.com:38468?peer=tw.systmservice.com&alpn=http/1.1,h2,h3&fingerprint=chrome#2Gemini%E4%B8%93%E7%BA%BF1
+trojan://im6lje1bb6lcoyt6@tw.systmservice.com:54494?peer=tw.systmservice.com&alpn=http/1.1,h2,h3&fingerprint=chrome#2Gemini%E4%B8%93%E7%BA%BF2
