@@ -27,8 +27,8 @@ anytls://c0c2946d-569c-4dae-865c-b12ae69cbe7c@jp.lyhycloud.org:12006?peer=www.bi
 anytls://c0c2946d-569c-4dae-865c-b12ae69cbe7c@jp.lyhycloud.org:12006?peer=www.bing.com&insecure=1&udp=1#JP-02
 anytls://c0c2946d-569c-4dae-865c-b12ae69cbe7c@lu.lyhycloud.org:12004?peer=www.bing.com&insecure=1&udp=1#LU-01
 anytls://c0c2946d-569c-4dae-865c-b12ae69cbe7c@lu.lyhycloud.org:12004?peer=www.bing.com&insecure=1&udp=1#LU-02
-滥用服务器2
-trojan://im6lje1bb6lcoyt6@tw.systmservice.com:54494?allowInsecure=1&peer=www.itunes.com&alpn=http/1.1&fingerprint=Chrome#2Gemini%E4%B8%93%E7%BA%BF1
-trojan://im6lje1bb6lcoyt6@tw.systmservice.com:38468?allowInsecure=1&peer=www.itunes.com&alpn=http/1.1&fingerprint=Chrome#2%20Gemini%E4%B8%93%E7%BA%BF2
-vmess://YXV0bzowZTc1OWY5MS02NGE3LTRkYzgtOWI3YS0xZTExNmFlYTkxNGNAdHcuc3lzdG1zZXJ2aWNlLmNvbTozMzAyMQ?path=/ws&remarks=2%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B81&obfsParam=tw.systmservice.com&obfs=websocket&tls=1&peer=tw.systmservice.com&alpn=http/1.1&udp=1&alterId=0
-vmess://YXV0bzowZTc1OWY5MS02NGE3LTRkYzgtOWI3YS0xZTExNmFlYTkxNGNAdHcuc3lzdG1zZXJ2aWNlLmNvbToyMDQ4Mw?path=/ws&remarks=2%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B82&obfsParam=tw.systmservice.com&obfs=websocket&tls=1&peer=tw.systmservice.com&alpn=http/1.1&udp=1&alterId=0
+滥用服务器2防封
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjHov5HmnJ/lopnlhrfnqbrmsJTmnaXooq0iLA0KICAiYWRkIjogInR3LnN5c3Rtc2VydmljZS5jb20iLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogIjE2YmU0ODViLTYzNTctNDg5My04NWNiLTM1YWNhYjdjM2Q0OCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHcuc3lzdG1zZXJ2aWNlLmNvbSIsDQogICJwYXRoIjogIi93cyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjHnibnmlrDlop7ku6XkuIvlpIfnlKjnur/ot68iLA0KICAiYWRkIjogInR3LnN5c3Rtc2VydmljZS5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTZiZTQ4NWItNjM1Ny00ODkzLTg1Y2ItMzVhY2FiN2MzZDQ4IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvd3MiLA0KICAidGxzIjogInRscyINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjHnvo7lm73lpIfnlKgxIiwNCiAgImFkZCI6ICJ0dy5zeXN0bXNlcnZpY2UuY29tIiwNCiAgInBvcnQiOiAiMjA1MyIsDQogICJpZCI6ICIxNmJlNDg1Yi02MzU3LTQ4OTMtODVjYi0zNWFjYWI3YzNkNDgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi93cyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjHnvo7lm73lpIfnlKgyIiwNCiAgImFkZCI6ICJ0dy5zeXN0bXNlcnZpY2UuY29tIiwNCiAgInBvcnQiOiAiMjA4MyIsDQogICJpZCI6ICIxNmJlNDg1Yi02MzU3LTQ4OTMtODVjYi0zNWFjYWI3YzNkNDgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi93cyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
